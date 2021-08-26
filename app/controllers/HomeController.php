@@ -14,7 +14,8 @@ class HomeController extends Controller
       $this->load("template", $dados);
    }
    public function lerXML()
-   {
+   {  
+      //leitura do xml
 
       $cnpjNOVO = $_POST["cnpj"];
 
