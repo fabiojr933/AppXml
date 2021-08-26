@@ -13,7 +13,7 @@ define('TIMEZONE', "America/Fortaleza");
 define('CAMINHO', realpath('./'));
 define("TITULO_SITE", "Fabio Pereira");
 
-define('URL_BASE', 'http://' . $_SERVER["HTTP_HOST"] . '/financeiroJP/financeiroJP/');
+define('URL_BASE', 'http://' . $_SERVER["HTTP_HOST"] . '/AppXml/AppXml/');
 define('URL_IMAGEM', "http://" . $_SERVER['HTTP_HOST'] . "/estrutura_mvc/UP/");
 
 define("SESSION_LOGIN", "usuario_logado");
