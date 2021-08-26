@@ -1,6 +1,6 @@
 # AppXml
 
-Projeto realizado para uma empresa que necessitava trocar o CNPJ dos XML para poder fazer lançamentos dos produtos no sistema deles.
+Projeto realizado para uma empresa que necessitava trocar o CNPJ dos XML das nota fiscais para poder fazer lançamentos dos produtos no sistema deles.
 Funcionalidade bem simples o cliente vai fazer o upload do xml.
 
 Ao fazer isso ao clicar em gerar XML o aplicativo vai fazer troca do CNPJ na TAG NFe->infNFe->dest->CNPJ do XML. Com isso ele vai recriar o XML com a alteração feita, e disponibilizar para download.   
