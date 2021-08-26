@@ -1,4 +1,4 @@
-<br>
+<br><br><br><br>
 <form action="<?php echo URL_BASE."home/lerXML" ?>" method="post" enctype="multipart/form-data">
   <div class="form-group">
     <label>Digite o CNPJ</label>
